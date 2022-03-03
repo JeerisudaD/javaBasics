@@ -18,8 +18,9 @@ public class HWClass07_Loop_Askname {
 			System.out.println("How old are you?");
 			age = sc.nextInt();
 			System.out.println("You name is " + name + "" + lastname + " and you are " + age + " old");
+			sc.close();	
 		}
-
+		
 	}
-
+	
 }

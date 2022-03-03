@@ -1,6 +1,6 @@
 package com.syntax.class10;
 
-public class PYTInclass03 {
+public class PTInclass03 {
 
 	public static void main(String[] args) {
 		String[][] titles = new String[2][4];

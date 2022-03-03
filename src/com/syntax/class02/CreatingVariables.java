@@ -38,6 +38,15 @@ public class CreatingVariables {
 	 * class name should start with upper case
 	 * if name has 2 or more word-->follow camel casing*/	
 	
+	System.out.println(age);
+	System.out.println(num);
+	System.out.println(n1+n2+n3);
+	System.out.println(character1);
+	System.out.println(enjoy);
+	
+	
+	
+	
 	}
 
 }

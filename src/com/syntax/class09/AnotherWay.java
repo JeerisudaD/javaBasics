@@ -12,6 +12,7 @@ public class AnotherWay {
 		//possible to do declaration and initialization in 2 steps
 		String[] array; //1. declaring
 		array=new String[4]; //2. initializing size
+		System.out.println(array);
 		
 		//NOT possible to do declaration and initialization in 2 steps
 		/*

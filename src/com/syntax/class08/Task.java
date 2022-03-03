@@ -34,7 +34,7 @@ public class Task {
 		
 		System.out.println("Congrats! Here your card");
 		
-		
+		sc.close();
 
 	}
 }

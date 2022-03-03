@@ -34,6 +34,7 @@ public class DoLoopExample {
 			   
 		}
 		System.out.println(" You earn $2000");
+		sc.close();
 	}
 
 }

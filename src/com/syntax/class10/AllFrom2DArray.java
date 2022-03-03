@@ -29,6 +29,8 @@ public class AllFrom2DArray {
 		}
 		
 		System.out.println("    ALL VALUES FROM 2D ARRAY USING FOR LOOP      ");
+		System.out.println("--------------");
+		
 		
 		//iterates over every array/ row
 		for(int row=0; row<food.length; row++) {

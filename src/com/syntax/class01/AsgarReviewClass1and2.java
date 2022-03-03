@@ -25,6 +25,18 @@ public class AsgarReviewClass1and2 {
 		String name="GieGie";
 		System.out.println(gender);
 
+System.out.println(smallestBox);	
+System.out.println(slightlyLargerBox);
+System.out.println(famouseBox);
+
+System.out.println(largestWholeNumberBox);
+System.out.println(biggestBox);
+System.out.println( name);
+System.out.println(isTrue);
+
+
+
+		
 	}
 
 }

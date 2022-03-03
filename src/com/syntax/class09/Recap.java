@@ -4,7 +4,7 @@ public class Recap {
 
 	public static void main(String[] args) {
 
-		for (int i = 1; i <= 4; i++) {
+		for (int i = 1; i <= 2; i++) {
 			System.out.println("A");
 			// break;
 			System.out.println("B");
@@ -12,7 +12,7 @@ public class Recap {
 
 		System.out.println(" ---------------------------------------  ");
 
-		for (int i = 1; i <= 3; i++) { // outer loop controls number of complete iteration of inner loop
+		for (int i = 1; i <= 7; i++) { // outer loop controls number of complete iteration of inner loop
 
 			for (int j = 1; j <= 3; j++) {// inner loops always depends on outer
 
@@ -46,7 +46,7 @@ public class Recap {
 			}
 
 			System.out.println("Good Morning");
-			break;
+		break;
 		}
 
 		System.out.println(" ---------------------------------------  ");
@@ -55,9 +55,9 @@ public class Recap {
 
 			for (int j = 1; j <= 3; j++) {
 
-				if (j == 2) {
+			if (j == 2) {
 					continue;
-					//break;  CE: not reachable code
+					//break; // CE: not reachable code
 				}
 				System.out.println("Good Morning");
 			}

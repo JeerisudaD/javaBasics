@@ -4,7 +4,6 @@ public class ArrayIntro {
 	
 	public static void main(String[] args) {
 		
-		int num=1;
 		
 		//creating an array that holds 4 elements
 		int[] numbers=new int[4];

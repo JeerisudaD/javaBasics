@@ -18,8 +18,8 @@ public class LogicalOr {
 	System.out.println("What is today day?");
 	
 	String answer=input.next();
-	
-	
+	System.out.println(answer);
+	input.close();
 	
 	}
 

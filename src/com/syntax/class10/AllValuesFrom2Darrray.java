@@ -30,12 +30,14 @@ public class AllValuesFrom2Darrray {
 		// numbers.length -> gives # of rows
 		int size = numbers.length;// when used wit 2D array gives # of 1d Arrays that we stored
 		System.out.println(size);// 3
+		
 		int sizeOf1Array = numbers[0].length;
-		System.out.println("Size of first array =" + sizeOf1Array);// 4
+		System.out.println("Size of first array =" + sizeOf1Array);// 3
+		
 		int sizeof2Array = numbers[1].length;
-		System.out.println("Size of second array =" + sizeof2Array);
+		System.out.println("Size of second array =" + sizeof2Array);//4
 		int sizeof3Array = numbers[2].length;
-		System.out.println("Size of third array =" + sizeof3Array);
+		System.out.println("Size of third array =" + sizeof3Array);//2
 
 	}
 }

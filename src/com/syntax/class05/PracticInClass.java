@@ -26,6 +26,7 @@ public class PracticInClass {
 	else {
 			System.out.println("Invalid entry");
 		}
+		input.close();
 	}
 
 }

@@ -25,10 +25,6 @@ public class PTInclass02 {
 			}
 		}
 
-	private static int IgnoreCase(String string) {
-		// TODO Auto-generated method stub
-		return 0;
 	}
 
-	}
 

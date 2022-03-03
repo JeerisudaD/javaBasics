@@ -24,5 +24,6 @@ public class Recap {
 
 			}
 		}
+		nooky.close();
 	}
 }
